@@ -15,7 +15,7 @@ df=pd.read_csv('customer.csv')
 def menu():
     
     while True:
-        print("HMS                   By: Ansh Aggarwal")
+        print("HMS                   By: MessyMice")
         print("           HOTEL  MANAGEMENT SYSTEM")
         print("          H O T E L   H Y A T T   R E G E N C Y")
         print("         ***************************************")
